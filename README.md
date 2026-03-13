@@ -6,7 +6,7 @@ Seja bem-vindo ao meu perfil no GitHub!💜
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩‍💻Sobre mim
 
 Atualmente curso Tecnologia da Informação pela UNIVESP e estou iniciando minha carreira na área de tecnologia.
 
@@ -18,7 +18,7 @@ Atualmente estou estudando algumas ferramentas que possam contribuir para minha 
 
 ---
 
-## 🚀 Tecnologias e ferramentas que estou aprendendo
+## 🚀Tecnologias e ferramentas que estou aprendendo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,7 +30,7 @@ Atualmente estou estudando algumas ferramentas que possam contribuir para minha 
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐Conecte-se comigo
 <div> 
   <a href="mailto:franciellyfontessilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B57EDC?style=for-the-badge&logo=gmail&logoColor=white">
