@@ -15,6 +15,7 @@ Tenho grande interesse em aprender, desenvolver novas habilidades **e** evoluir 
 Possuo experiência na área administrativa, atuando na organização de informações, elaboração e controle de planilhas, emissão de notas fiscais, geração de etiquetas dos Correios e atendimento ao cliente.
 
 Atualmente estou estudando algumas ferramentas que possam contribuir para minha evolução profissional na área de TI.
+Estou estagiando na área de TI pela SEDUC, em uma escola.
 
 ---
 
